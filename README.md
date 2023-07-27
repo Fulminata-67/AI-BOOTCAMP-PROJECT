@@ -13,4 +13,5 @@ Rakshit Rajanna, Sushanth Raghavendra and Suriyaa Naveen Gowda have made 2 proje
 Hope you are able to view our projects, enjoy it, share it and continue to improve it
 
 Thank You,
+
 Sushanth, Suriyaa and Rakshit
